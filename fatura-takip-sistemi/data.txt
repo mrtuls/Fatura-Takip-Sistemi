@@ -1,0 +1,7 @@
+Elektrik 36.8
+Su 25.8
+Dogal Gaz 15.9
+Telefon 36.9
+Aylik Gelir 500
+Aylik Bilanco 384.6
+
